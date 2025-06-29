@@ -1,0 +1,5 @@
+C:\Users\LenOvo\source\repos\AlgorithmsProject_Group16\AlgorithmsProject_Group16\x64\Debug\AlgorithmsProject_Group16.vcxproj.AssemblyReference.cache
+C:\Users\LenOvo\source\repos\AlgorithmsProject_Group16\AlgorithmsProject_Group16\x64\Debug\AlgorithmsProject_Group16.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\LenOvo\source\repos\AlgorithmsProject_Group16\AlgorithmsProject_Group16\x64\Debug\AlgorithmsProjectGroup16.StartForm.resources
+C:\Users\LenOvo\source\repos\AlgorithmsProject_Group16\AlgorithmsProject_Group16\x64\Debug\AlgorithmsProject_Group16.vcxproj.GenerateResource.cache
+C:\Users\LenOvo\source\repos\AlgorithmsProject_Group16\AlgorithmsProject_Group16\x64\Debug\AlgorithmsProjectGroup16.TokenBattle.resources
